@@ -405,7 +405,7 @@ h3 span {
 }
 
 #Text-end{
-   
+    padding: 10px;
     justify-content: center;
     text-align: center;
 }
