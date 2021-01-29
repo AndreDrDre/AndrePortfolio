@@ -1245,8 +1245,8 @@ button {
 
 .left-column {
     grid-area: left-column;
-    justify-items: center;
-    padding-left: 160px;
+    display: flex;
+    justify-content: center;
 
 
 }
