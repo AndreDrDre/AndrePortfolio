@@ -1,0 +1,23 @@
+:root {
+    --mainColor: #15202B;
+    --secondaryColor: #192734;
+    /*background border color*/
+
+    --borderColor: #164D56;
+
+    --mainText: #fff;
+    /*headings*/
+    --secondaryText: #eeeeee;
+
+    --themeDotBorder: #FFF;
+
+    --previewBg: rgb(25, 39, 52, 0.8);
+    --previewShadow: #111921;
+    --previewColor: rgb(251, 249, 243, 0.8);
+
+    --btncolor: rgb(16, 168, 214);
+
+    --ConactColor: #192734;
+    --Contactborder: #164D56;
+
+}

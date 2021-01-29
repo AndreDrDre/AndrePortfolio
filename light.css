@@ -1,0 +1,14 @@
+:root {
+    --maincolor: #fffdfd;
+    --secondaryColor: #ffff;
+
+    --borderColor: #c1c1c1;
+
+    --mainText: rgb(10, 10, 10);
+    --secodnarytext: rgb(148, 141, 141);
+    --previewColor: rgb(251, 249, 243, 0.8);
+    --previewshadow: #f0ead6;
+    --btncolor: black;
+    --ConactColor: black;
+    --Contactborder: #c1c1c1;
+}

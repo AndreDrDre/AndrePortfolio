@@ -1,0 +1,4 @@
+vendor/sendgrid.env
+sendgrid.env
+vendor/
+.DS_Store
