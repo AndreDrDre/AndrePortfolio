@@ -345,7 +345,7 @@ a {
 #skills-shadow {
     background-color: var(--previewshadow);
     width: auto;
-    height: 60%;
+    height: 80%;
     padding: 20px;
     margin: 5px;
     align-content: center;
