@@ -818,8 +818,8 @@ label {
 }
 
 .social:hover {
-    border: 5px solid var(--borderColor);
-    border-radius: 150%;
+    
+    transform: scale(1.2);
 }
 
 
